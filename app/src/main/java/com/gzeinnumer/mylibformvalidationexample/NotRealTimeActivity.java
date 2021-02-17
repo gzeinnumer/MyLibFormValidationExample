@@ -9,11 +9,10 @@ import android.widget.Toast;
 
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
-
-import com.gzeinnumer.mylibformvalidator.Validator;
-import com.gzeinnumer.mylibformvalidator.constant.TypeForm;
-import com.gzeinnumer.mylibformvalidator.model.FormInput;
-import com.gzeinnumer.mylibformvalidator.model.Rule;
+import com.gzeinnumer.afv.Validator;
+import com.gzeinnumer.afv.constant.TypeForm;
+import com.gzeinnumer.afv.model.FormInput;
+import com.gzeinnumer.afv.model.Rule;
 
 public class NotRealTimeActivity extends AppCompatActivity {
     TextInputEditText formNama, formAlamat, formNim,

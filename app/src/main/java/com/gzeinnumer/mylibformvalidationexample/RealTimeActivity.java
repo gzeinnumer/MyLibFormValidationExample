@@ -10,11 +10,11 @@ import android.widget.Toast;
 
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
-import com.gzeinnumer.mylibformvalidator.ValidatorRealTime;
-import com.gzeinnumer.mylibformvalidator.constant.TypeForm;
-import com.gzeinnumer.mylibformvalidator.helper.ValidatorCallBack;
-import com.gzeinnumer.mylibformvalidator.model.FormInput;
-import com.gzeinnumer.mylibformvalidator.model.Rule;
+import com.gzeinnumer.afv.ValidatorRealTime;
+import com.gzeinnumer.afv.constant.TypeForm;
+import com.gzeinnumer.afv.helper.ValidatorCallBack;
+import com.gzeinnumer.afv.model.FormInput;
+import com.gzeinnumer.afv.model.Rule;
 
 public class RealTimeActivity extends AppCompatActivity {
 

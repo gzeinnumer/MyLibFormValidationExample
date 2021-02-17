@@ -1,5 +1,5 @@
 # MyLibFormValidationExample
-From library https://github.com/gzeinnumer/MyLibFormValidation
+From library https://github.com/gzeinnumer/AndroidFormValidation
 
 [Download Sample App](https://drive.google.com/file/d/13xVVn2Xf01q5IJHlXdwsdI6fcM-Eau3C/view?usp=sharing)
 
